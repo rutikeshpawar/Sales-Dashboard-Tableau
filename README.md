@@ -23,7 +23,3 @@ The dashboard tracks **followers, views, likes, shares, comments, and revenue** 
 - CSV dataset (data source)  
 - Custom background design  
 
----
-
-## 🌐 Live Dashboard
-👉 You can explore this dashboard interactively on Power BI Service here: [Insert Power BI Publish Link once uploaded]  
