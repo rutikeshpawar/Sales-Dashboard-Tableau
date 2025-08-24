@@ -10,7 +10,10 @@ The dashboard tracks **followers, views, likes, shares, comments, and revenue** 
 - Total Likes: **24.78B**  
 - Total Shares: **4.94B**  
 - Total Comments: **2.51B**  
-- Total Revenue: **₹5.03B**  
+- Total Revenue: **₹5.03B**
+
+## 📸 Dashboard Preview
+![Dashboard](dashboard.png)
 
 ## 📂 Files
 - `dashboard.pbix` → Power BI dashboard file  
